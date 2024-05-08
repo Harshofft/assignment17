@@ -19,6 +19,11 @@
     display: flex;
     flex-direction: column;
 }
+.card-content h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .card img{
     width: 100%;
     height: 326px;
